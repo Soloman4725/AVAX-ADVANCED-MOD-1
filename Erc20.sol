@@ -6,7 +6,7 @@ contract ERC20 {
     uint public totalSupply;
     mapping(address => uint) public balanceOf;
     mapping(address => mapping(address => uint)) public allowance;
-    string public name = "SOLO**";
+    string public name = "SOLOO**";
     string public symbol = "SOL*";
     uint8 public decimals = 18;
 
