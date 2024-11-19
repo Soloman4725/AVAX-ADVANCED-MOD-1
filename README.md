@@ -66,7 +66,7 @@ Use the following information to connect to your Subnet:
 - **RPC URL:** `(http://127.0.0.1:9650/ext/bc/fUDVYZ8srLZzymhaoTh5y5f5eveCGffsK5yPtwEMMnqXMDpFL/rpc)`
 - **Funded Address:** `0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC` (with 1,000,000 units)
 - **Network Name:** `mySubnet2`
-- **Chain ID:** `3189`
+- **Chain ID:** `1369`
 - **Currency Symbol:** `SOLO*`
 
 
